@@ -46,13 +46,6 @@
       "direccion": "av 458",
       "nombre": "HP",
       "telefono": "4659841" 
-    },
-    {
-      "id": 6,
-      "correo": "proovedor2@gmail.com",
-      "direccion": "jr. 568 Av. 230",
-      "nombre": "Sony",
-      "telefono": "456789" 
     }
   ]
 }
