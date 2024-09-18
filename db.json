@@ -32,6 +32,34 @@
       "direccion": "av.peru 123",
       "nombre": "toshiba",
       "telefono": "568522954" 
-    }
+    },
+    {
+      "id": 4,
+      "correo": "lenovo@gmail.com",
+      "direccion": "Av. 568",
+      "nombre": "Lenovo",
+      "telefono": "456465" 
+    },
+    {
+      "id": 5,
+      "correo": "hp@gmail.com",
+      "direccion": "av 458",
+      "nombre": "HP",
+      "telefono": "4659841" 
+    },
+    {
+      "id": 6,
+      "correo": "proovedor2@gmail.com",
+      "direccion": "jr. 568 Av. 230",
+      "nombre": "Sony",
+      "telefono": "456789" 
+    },
+    {
+      "id": 7,
+      "correo": "proveedor1@gmail.com",
+      "direccion": "Jr. 165 av. 50",
+      "nombre": "Samsung",
+      "telefono": "123456" 
+    } 
   ]
 }
