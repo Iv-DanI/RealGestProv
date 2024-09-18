@@ -10,5 +10,28 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "proveedores": [
+    {
+      "id": 1,
+      "correo": "proveedor4@gmail.com",
+      "direccion": "av.larco 100",
+      "nombre": "dell",
+      "telefono": "749851795" 
+    },
+    {
+      "id": 1,
+      "correo": "proveedor4@gmail.com",
+      "direccion": "av.larco 100",
+      "nombre": "dell",
+      "telefono": "749851795" 
+    },
+    {
+      "id": 1,
+      "correo": "proveedor4@gmail.com",
+      "direccion": "av.peru 123",
+      "nombre": "toshiba",
+      "telefono": "568522954" 
+    }
+  ]
 }
