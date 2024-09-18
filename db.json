@@ -53,13 +53,6 @@
       "direccion": "jr. 568 Av. 230",
       "nombre": "Sony",
       "telefono": "456789" 
-    },
-    {
-      "id": 7,
-      "correo": "proveedor1@gmail.com",
-      "direccion": "Jr. 165 av. 50",
-      "nombre": "Samsung",
-      "telefono": "123456" 
-    } 
+    }
   ]
 }
